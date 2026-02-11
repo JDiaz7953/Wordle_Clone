@@ -8,13 +8,13 @@ A fully functional browser-based clone of the popular word game Wordle, built wi
 
 ## 📸 Screenshots
    ### Gameplay
-   ![Gameplay](screenshots/gameplay.png)
+   ![Gameplay](gameplay.png)
    
    ### Win State
-   ![Win State](screenshots/win.png)
+   ![Win State](win1.png)
    
    ### Loss State
-   ![Loss State](screenshots/loss.png)
+   ![Loss State](loss.png)
 
 <!-- TODO: Add screenshots of your game here -->
 <!-- Suggested screenshots: -->
