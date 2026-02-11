@@ -1,0 +1,112 @@
+body {
+  background-color: #353839 !important;
+}
+
+h1 {
+  color: #f9f6ee;
+}
+
+#enter {
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 75px;
+  height: 40px;
+  margin-left: 5px;
+  background-color: #333333;
+  border-radius: 6px;
+  transition: 0.2s;
+  cursor: pointer;
+  color: #f9f6ee;
+}
+#delete {
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 75px;
+  height: 40px;
+  margin-left: 2px;
+  background-color: #333333;
+  border-radius: 6px;
+  transition: 0.2s;
+  cursor: pointer;
+  color: #f9f6ee;
+}
+
+.wrd-box {
+  width: 4rem;
+  height: 4rem;
+  border: gray;
+  border-style: solid;
+  background-color: #353839;
+  padding: 0rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #f9f6ee;
+  border-width: 2px;
+}
+
+.correct {
+  background-color: #6fc276;
+}
+
+.wrong-spot {
+  background-color: #eeee9b;
+}
+
+.keyboardRow {
+  text-align: center;
+}
+.key {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 5px;
+  color: #f9f6ee;
+  background-color: #333333;
+  border-radius: 6px;
+  transition: 0.2s;
+  cursor: pointer;
+  height: 45px;
+  width: 35px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.keyboard {
+  display: table;
+  width: 500px;
+  height: 250px;
+}
+
+.key.disabled {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+/* span {
+  color: #f9f6ee;
+  background-color: #333333;
+  border-radius: 6px;
+  transition: 0.2s;
+  cursor: pointer;
+  height: 45px;
+  width: 35px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+} */
+
+.key:hover {
+  background-color: #28282b;
+}
+#enter:hover {
+  background-color: #28282b;
+}
+#delete:hover {
+  background-color: #28282b;
+}
