@@ -7,6 +7,14 @@ A fully functional browser-based clone of the popular word game Wordle, built wi
 [Live Demo](#) <!-- TODO: Add your GitHub Pages link here after deployment -->
 
 ## 📸 Screenshots
+   ### Gameplay
+   ![Gameplay](screenshots/gameplay.png)
+   
+   ### Win State
+   ![Win State](screenshots/win.png)
+   
+   ### Loss State
+   ![Loss State](screenshots/loss.png)
 
 <!-- TODO: Add screenshots of your game here -->
 <!-- Suggested screenshots: -->
